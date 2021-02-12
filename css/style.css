@@ -330,17 +330,17 @@ a:focus {
 .slider_section .detail-box .btn-2 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #222020;
+  background-color: #6d7974;
   color: #ffffff;
   border-radius: 5px;
-  border: 1px solid #222020;
+  border: 1px solid #6d7974;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
 
 .slider_section .detail-box .btn-2:hover {
   background-color: transparent;
-  color: #222020;
+  color: #6d7974;
 }
 
 .slider_section .img-box img {
@@ -497,12 +497,12 @@ a:focus {
   border-bottom: 1px solid #888;
   padding-bottom: 10px;
   margin-bottom: 15px;
-  color: #222020;
+  color: #6d7974;
 }
 
 .product_section .box .detail-box a {
   font-size: 18px;
-  color: #222020;
+  color: #6d7974;
 }
 
 .product_section .box .detail-box .price_heading {
@@ -563,10 +563,10 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #222020;
+  background-color: #6d7974;
   color: #ffffff;
   border-radius: 5px;
-  border: 1px solid #222020;
+  border: 1px solid #6d7974;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   margin-top: 15px;
@@ -574,7 +574,7 @@ a:focus {
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #222020;
+  color: #6d7974;
 }
 
 .blog_section .heading_container {
@@ -631,17 +631,17 @@ a:focus {
 .blog_section .box .detail-box a {
   display: inline-block;
   padding: 7px 30px;
-  background-color: #222020;
+  background-color: #6d7974;
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #222020;
+  border: 1px solid #6d7974;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
 
 .blog_section .box .detail-box a:hover {
   background-color: transparent;
-  color: #222020;
+  color: #6d7974;
 }
 
 .client_section .heading_container {
@@ -793,17 +793,17 @@ a:focus {
   text-transform: uppercase;
   display: inline-block;
   padding: 10px 55px;
-  background-color: #222020;
+  background-color: #6d7974;
   color: #ffffff;
   border-radius: 0px;
-  border: 1px solid #222020;
+  border: 1px solid #6d7974;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
 
 .contact_section .form_container .btn_box button:hover {
   background-color: transparent;
-  color: #222020;
+  color: #6d7974;
 }
 
 .contact_section .map_container {
@@ -832,7 +832,7 @@ a:focus {
 
 /* info section */
 .info_section {
-  background-color: #274035;
+  background-color: #6d7974;
   color: #ffffff;
   padding: 75px 0 60px 0;
 }
@@ -942,7 +942,7 @@ a:focus {
 /* footer section*/
 .footer_section {
   position: relative;
-  background-color: #274035;
+  background-color: #6d7974;
   text-align: center;
 }
 
